@@ -1,0 +1,305 @@
+Gene 1	Gene 2	Weight	Network group	Network
+SPSB1	MESDC1	0.009639652	Co-expression	Jiang-de Kok-2017
+ARRDC2	SPSB1	0.0052714064	Co-expression	Jiang-de Kok-2017
+NFKBIE	SPSB1	0.01203577	Co-expression	Jiang-de Kok-2017
+SERTAD1	SPSB1	0.008820286	Co-expression	Jiang-de Kok-2017
+SERTAD1	ARRDC2	0.0067080017	Co-expression	Jiang-de Kok-2017
+SERTAD1	NFKBIE	0.015062247	Co-expression	Jiang-de Kok-2017
+RELB	MESDC1	0.008818482	Co-expression	Jiang-de Kok-2017
+RELB	SPSB1	0.006540315	Co-expression	Jiang-de Kok-2017
+RELB	ARRDC2	0.0045812842	Co-expression	Jiang-de Kok-2017
+RELB	NFKBIE	0.011203601	Co-expression	Jiang-de Kok-2017
+NFKB2	RELB	0.0067145913	Co-expression	Jiang-de Kok-2017
+ETS2	SPSB1	0.012207502	Co-expression	Jiang-de Kok-2017
+ETS2	ARRDC2	0.009609235	Co-expression	Jiang-de Kok-2017
+MAFF	SPSB1	0.0050336155	Co-expression	Jiang-de Kok-2017
+MAFF	PIM3	0.003362024	Co-expression	Jiang-de Kok-2017
+MAFF	NFKBIE	0.008604257	Co-expression	Jiang-de Kok-2017
+MAFF	RELB	0.0045543713	Co-expression	Jiang-de Kok-2017
+MAFF	ETS2	0.009348802	Co-expression	Jiang-de Kok-2017
+CSRNP2	MESDC1	0.01108653	Co-expression	Jiang-de Kok-2017
+CSRNP2	SPSB1	0.007886878	Co-expression	Jiang-de Kok-2017
+CSRNP2	RELB	0.006942539	Co-expression	Jiang-de Kok-2017
+CDK18	MTA1	0.022791356	Co-expression	Jiang-de Kok-2017
+CDK18	H1FX	0.017107885	Co-expression	Jiang-de Kok-2017
+JUNB	SPSB1	0.007254426	Co-expression	Jiang-de Kok-2017
+JUNB	ARRDC2	0.0050061042	Co-expression	Jiang-de Kok-2017
+JUNB	NFKBIE	0.013226119	Co-expression	Jiang-de Kok-2017
+JUNB	RELB	0.0063232104	Co-expression	Jiang-de Kok-2017
+JUNB	ETS2	0.012230858	Co-expression	Jiang-de Kok-2017
+JUNB	MAFF	0.0058254665	Co-expression	Jiang-de Kok-2017
+CSRNP1	NFKBIE	0.011024748	Co-expression	Jiang-de Kok-2017
+CSRNP1	SERTAD1	0.008272621	Co-expression	Jiang-de Kok-2017
+CSRNP1	ETS2	0.011614611	Co-expression	Jiang-de Kok-2017
+CSRNP1	MAFF	0.0051230663	Co-expression	Jiang-de Kok-2017
+CSRNP1	JUNB	0.0074644843	Co-expression	Jiang-de Kok-2017
+EHD4	MESDC1	0.0072077317	Co-expression	Jiang-de Kok-2017
+EHD4	SPSB1	0.0048970524	Co-expression	Jiang-de Kok-2017
+EHD4	ARRDC2	0.0035606667	Co-expression	Jiang-de Kok-2017
+EHD4	RELB	0.0045462186	Co-expression	Jiang-de Kok-2017
+CDC42SE1	MESDC1	0.018813053	Co-expression	Jiang-de Kok-2017
+CDC42SE1	ARRDC2	0.009160522	Co-expression	Jiang-de Kok-2017
+CDC42SE1	RELB	0.010593897	Co-expression	Jiang-de Kok-2017
+CDC42SE1	CSRNP2	0.014918015	Co-expression	Jiang-de Kok-2017
+CDC42SE1	EHD4	0.008563226	Co-expression	Jiang-de Kok-2017
+EGR1	ARRDC2	0.006048607	Co-expression	Jiang-de Kok-2017
+EGR1	NFKBIE	0.015177315	Co-expression	Jiang-de Kok-2017
+EGR1	SERTAD1	0.01219652	Co-expression	Jiang-de Kok-2017
+EGR1	MAFF	0.006053222	Co-expression	Jiang-de Kok-2017
+EGR1	JUNB	0.009948431	Co-expression	Jiang-de Kok-2017
+EGR1	CSRNP1	0.008883072	Co-expression	Jiang-de Kok-2017
+RRAD	SPSB1	0.011087568	Co-expression	Jiang-de Kok-2017
+RRAD	ARRDC2	0.0073450767	Co-expression	Jiang-de Kok-2017
+RRAD	NFKBIE	0.018765107	Co-expression	Jiang-de Kok-2017
+RRAD	SERTAD1	0.014892867	Co-expression	Jiang-de Kok-2017
+RRAD	RELB	0.009028041	Co-expression	Jiang-de Kok-2017
+RRAD	JUNB	0.010720485	Co-expression	Jiang-de Kok-2017
+RRAD	CSRNP1	0.009035658	Co-expression	Jiang-de Kok-2017
+IRAK2	SPSB1	0.008463179	Co-expression	Jiang-de Kok-2017
+IRAK2	ARRDC2	0.006319824	Co-expression	Jiang-de Kok-2017
+IRAK2	MAFF	0.0059709838	Co-expression	Jiang-de Kok-2017
+IER2	JUNB	0.0120510375	Co-expression	Jiang-de Kok-2017
+IER2	EGR1	0.0179368	Co-expression	Jiang-de Kok-2017
+HECA	PIM3	0.006078132	Co-expression	Jiang-de Kok-2017
+HECA	H1FX	0.016495911	Co-expression	Jiang-de Kok-2017
+HECA	CDK18	0.01344944	Co-expression	Jiang-de Kok-2017
+BFAR	PIM3	0.008163808	Co-expression	Jiang-de Kok-2017
+BFAR	HECA	0.019551568	Co-expression	Jiang-de Kok-2017
+CCL20	MESDC1	0.00796396	Co-expression	Jiang-de Kok-2017
+CCL20	SPSB1	0.005713188	Co-expression	Jiang-de Kok-2017
+CCL20	NFKBIE	0.00938426	Co-expression	Jiang-de Kok-2017
+CCL20	RELB	0.0055577834	Co-expression	Jiang-de Kok-2017
+CCL20	ETS2	0.009924622	Co-expression	Jiang-de Kok-2017
+CCL20	MAFF	0.004256914	Co-expression	Jiang-de Kok-2017
+CCL20	CSRNP2	0.0062726764	Co-expression	Jiang-de Kok-2017
+TNFRSF10A	SERTAD1	0.0050875	Co-expression	Jiang-de Kok-2017
+PIM3	MESDC1	0.011387968	Co-expression	Arijs-Rutgeerts-2009
+H1FX	TOX2	0.00521395	Co-expression	Arijs-Rutgeerts-2009
+ODC1	PIM3	0.0035503048	Co-expression	Arijs-Rutgeerts-2009
+SERTAD1	MESDC1	0.016064495	Co-expression	Arijs-Rutgeerts-2009
+SERTAD1	PIM3	0.010242282	Co-expression	Arijs-Rutgeerts-2009
+SERTAD1	ODC1	0.006116257	Co-expression	Arijs-Rutgeerts-2009
+NFKB2	NFKBIE	0.028690154	Co-expression	Arijs-Rutgeerts-2009
+ETS2	PIM3	0.010101406	Co-expression	Arijs-Rutgeerts-2009
+ETS2	ODC1	0.006994473	Co-expression	Arijs-Rutgeerts-2009
+MAFF	MESDC1	0.01203051	Co-expression	Arijs-Rutgeerts-2009
+MAFF	PIM3	0.008527485	Co-expression	Arijs-Rutgeerts-2009
+MAFF	ODC1	0.0045761797	Co-expression	Arijs-Rutgeerts-2009
+MAFF	SERTAD1	0.01431802	Co-expression	Arijs-Rutgeerts-2009
+MAFF	ETS2	0.012754264	Co-expression	Arijs-Rutgeerts-2009
+CSRNP2	ARRDC2	0.021694727	Co-expression	Arijs-Rutgeerts-2009
+CSRNP2	H1FX	0.009980539	Co-expression	Arijs-Rutgeerts-2009
+CDK18	SPSB1	0.010197551	Co-expression	Arijs-Rutgeerts-2009
+JUNB	PIM3	0.007879469	Co-expression	Arijs-Rutgeerts-2009
+JUNB	ETS2	0.011845756	Co-expression	Arijs-Rutgeerts-2009
+CSRNP1	MESDC1	0.017918045	Co-expression	Arijs-Rutgeerts-2009
+CSRNP1	PIM3	0.01133904	Co-expression	Arijs-Rutgeerts-2009
+CSRNP1	ODC1	0.005859443	Co-expression	Arijs-Rutgeerts-2009
+CSRNP1	SERTAD1	0.018413793	Co-expression	Arijs-Rutgeerts-2009
+CSRNP1	ETS2	0.019552972	Co-expression	Arijs-Rutgeerts-2009
+CSRNP1	MAFF	0.013792258	Co-expression	Arijs-Rutgeerts-2009
+CSRNP1	JUNB	0.012844575	Co-expression	Arijs-Rutgeerts-2009
+EHD4	PIM3	0.009547482	Co-expression	Arijs-Rutgeerts-2009
+EHD4	MAFF	0.0125327455	Co-expression	Arijs-Rutgeerts-2009
+EGR1	PIM3	0.008914553	Co-expression	Arijs-Rutgeerts-2009
+EGR1	ODC1	0.0049229083	Co-expression	Arijs-Rutgeerts-2009
+EGR1	ETS2	0.020233272	Co-expression	Arijs-Rutgeerts-2009
+EGR1	MAFF	0.009219832	Co-expression	Arijs-Rutgeerts-2009
+EGR1	JUNB	0.013297512	Co-expression	Arijs-Rutgeerts-2009
+EGR1	CSRNP1	0.01807412	Co-expression	Arijs-Rutgeerts-2009
+IRAK2	NFKBIE	0.02293247	Co-expression	Arijs-Rutgeerts-2009
+IER2	MESDC1	0.014414975	Co-expression	Arijs-Rutgeerts-2009
+IER2	PIM3	0.010308234	Co-expression	Arijs-Rutgeerts-2009
+IER2	ODC1	0.006064665	Co-expression	Arijs-Rutgeerts-2009
+IER2	SERTAD1	0.015152031	Co-expression	Arijs-Rutgeerts-2009
+IER2	ETS2	0.019101359	Co-expression	Arijs-Rutgeerts-2009
+IER2	MAFF	0.011686801	Co-expression	Arijs-Rutgeerts-2009
+IER2	JUNB	0.012017717	Co-expression	Arijs-Rutgeerts-2009
+IER2	CSRNP1	0.020335082	Co-expression	Arijs-Rutgeerts-2009
+IER2	EGR1	0.019642416	Co-expression	Arijs-Rutgeerts-2009
+DUSP6	MESDC1	0.022149647	Co-expression	Arijs-Rutgeerts-2009
+DUSP6	PIM3	0.010353087	Co-expression	Arijs-Rutgeerts-2009
+DUSP6	ODC1	0.0058663194	Co-expression	Arijs-Rutgeerts-2009
+DUSP6	SERTAD1	0.022988522	Co-expression	Arijs-Rutgeerts-2009
+DUSP6	MAFF	0.015058255	Co-expression	Arijs-Rutgeerts-2009
+DUSP6	CSRNP1	0.018480951	Co-expression	Arijs-Rutgeerts-2009
+DUSP6	EHD4	0.021675296	Co-expression	Arijs-Rutgeerts-2009
+DUSP6	IER2	0.015471602	Co-expression	Arijs-Rutgeerts-2009
+HECA	RELB	0.017911237	Co-expression	Arijs-Rutgeerts-2009
+BFAR	MESDC1	0.020328023	Co-expression	Arijs-Rutgeerts-2009
+BFAR	PIM3	0.00873003	Co-expression	Arijs-Rutgeerts-2009
+CCL20	PIM3	0.009842389	Co-expression	Arijs-Rutgeerts-2009
+CCL20	MAFF	0.012380348	Co-expression	Arijs-Rutgeerts-2009
+CCL20	DUSP6	0.019501941	Co-expression	Arijs-Rutgeerts-2009
+TNFRSF10A	MESDC1	0.02547316	Co-expression	Arijs-Rutgeerts-2009
+TNFRSF10A	PIM3	0.0110335965	Co-expression	Arijs-Rutgeerts-2009
+TNFRSF10A	ODC1	0.006322158	Co-expression	Arijs-Rutgeerts-2009
+TNFRSF10A	SERTAD1	0.017705806	Co-expression	Arijs-Rutgeerts-2009
+TNFRSF10A	MAFF	0.012733134	Co-expression	Arijs-Rutgeerts-2009
+TNFRSF10A	CSRNP1	0.017994752	Co-expression	Arijs-Rutgeerts-2009
+TNFRSF10A	DUSP6	0.021864533	Co-expression	Arijs-Rutgeerts-2009
+TNFRSF10A	BFAR	0.020397136	Co-expression	Arijs-Rutgeerts-2009
+MARCKSL1	MTA1	0.016512124	Co-expression	Bild-Nevins-2006 B
+RELB	RPS6KA4	0.01565993	Co-expression	Bild-Nevins-2006 B
+RELB	NFKBIE	0.016287258	Co-expression	Bild-Nevins-2006 B
+NFKB2	RPS6KA4	0.020823367	Co-expression	Bild-Nevins-2006 B
+NFKB2	NFKBIE	0.021109547	Co-expression	Bild-Nevins-2006 B
+NFKB2	RELB	0.029446756	Co-expression	Bild-Nevins-2006 B
+JUNB	MAFF	0.023849748	Co-expression	Bild-Nevins-2006 B
+EGR1	MAFF	0.01683713	Co-expression	Bild-Nevins-2006 B
+EGR1	JUNB	0.0184359	Co-expression	Bild-Nevins-2006 B
+RRAD	JUNB	0.017357035	Co-expression	Bild-Nevins-2006 B
+RRAD	EGR1	0.014844771	Co-expression	Bild-Nevins-2006 B
+IER2	MAFF	0.026938898	Co-expression	Bild-Nevins-2006 B
+IER2	JUNB	0.032383587	Co-expression	Bild-Nevins-2006 B
+IER2	EGR1	0.018615345	Co-expression	Bild-Nevins-2006 B
+IER2	RRAD	0.015654206	Co-expression	Bild-Nevins-2006 B
+CCL20	NFKBIE	0.013308343	Co-expression	Bild-Nevins-2006 B
+CCL20	ETS2	0.02973688	Co-expression	Bild-Nevins-2006 B
+H1FX	PIM3	0.017194685	Co-expression	Roth-Zlotnik-2006
+SERTAD1	SPSB1	0.01299885	Co-expression	Roth-Zlotnik-2006
+RELB	NFKBIE	0.011346372	Co-expression	Roth-Zlotnik-2006
+NFKB2	RELB	0.015653566	Co-expression	Roth-Zlotnik-2006
+ETS2	PIM3	0.017409757	Co-expression	Roth-Zlotnik-2006
+MAFF	SPSB1	0.014800187	Co-expression	Roth-Zlotnik-2006
+MAFF	PIM3	0.010931928	Co-expression	Roth-Zlotnik-2006
+MAFF	SERTAD1	0.010390267	Co-expression	Roth-Zlotnik-2006
+MAFF	ETS2	0.014384849	Co-expression	Roth-Zlotnik-2006
+CDK18	MARCKSL1	0.0021936488	Co-expression	Roth-Zlotnik-2006
+JUNB	SPSB1	0.012822391	Co-expression	Roth-Zlotnik-2006
+JUNB	PIM3	0.009740347	Co-expression	Roth-Zlotnik-2006
+JUNB	SERTAD1	0.009386548	Co-expression	Roth-Zlotnik-2006
+JUNB	ETS2	0.013821831	Co-expression	Roth-Zlotnik-2006
+JUNB	MAFF	0.010853221	Co-expression	Roth-Zlotnik-2006
+CSRNP1	SERTAD1	0.010322504	Co-expression	Roth-Zlotnik-2006
+CSRNP1	ETS2	0.0129090445	Co-expression	Roth-Zlotnik-2006
+CSRNP1	MAFF	0.010866191	Co-expression	Roth-Zlotnik-2006
+CSRNP1	JUNB	0.009688001	Co-expression	Roth-Zlotnik-2006
+EHD4	PIM3	0.019758992	Co-expression	Roth-Zlotnik-2006
+EHD4	SERTAD1	0.01647506	Co-expression	Roth-Zlotnik-2006
+EGR1	PIM3	0.0146294525	Co-expression	Roth-Zlotnik-2006
+EGR1	SERTAD1	0.013084441	Co-expression	Roth-Zlotnik-2006
+EGR1	MAFF	0.0144231655	Co-expression	Roth-Zlotnik-2006
+EGR1	JUNB	0.015728585	Co-expression	Roth-Zlotnik-2006
+EGR1	CSRNP1	0.0139200315	Co-expression	Roth-Zlotnik-2006
+IER2	PIM3	0.013384847	Co-expression	Roth-Zlotnik-2006
+IER2	H1FX	0.014564118	Co-expression	Roth-Zlotnik-2006
+IER2	SERTAD1	0.009861127	Co-expression	Roth-Zlotnik-2006
+IER2	MAFF	0.010642787	Co-expression	Roth-Zlotnik-2006
+IER2	JUNB	0.011677457	Co-expression	Roth-Zlotnik-2006
+IER2	CSRNP1	0.0095998235	Co-expression	Roth-Zlotnik-2006
+IER2	EHD4	0.016041793	Co-expression	Roth-Zlotnik-2006
+IER2	EGR1	0.017430466	Co-expression	Roth-Zlotnik-2006
+DUSP6	PIM3	0.016594836	Co-expression	Roth-Zlotnik-2006
+HECA	NFKBIE	0.023711314	Co-expression	Roth-Zlotnik-2006
+KAT2A	MTA1	0.010000636	Co-expression	Burington-Shaughnessy-2008
+RELB	NFKBIE	0.020637421	Co-expression	Burington-Shaughnessy-2008
+NFKB2	NFKBIE	0.02313284	Co-expression	Burington-Shaughnessy-2008
+NFKB2	RELB	0.018636992	Co-expression	Burington-Shaughnessy-2008
+CSRNP2	MAFF	0.010470784	Co-expression	Burington-Shaughnessy-2008
+EGR1	JUNB	0.029923497	Co-expression	Burington-Shaughnessy-2008
+IER2	JUNB	0.0274939	Co-expression	Burington-Shaughnessy-2008
+H1FX	MTA1	0.009692163	Co-expression	Dobbin-Giordano-2005
+RELB	RPS6KA4	0.016593456	Co-expression	Dobbin-Giordano-2005
+CDK18	KAT2A	0.0055726706	Co-expression	Dobbin-Giordano-2005
+IER2	EGR1	0.028305123	Co-expression	Dobbin-Giordano-2005
+HECA	CSRNP2	0.009404147	Co-expression	Dobbin-Giordano-2005
+MARCKSL1	ODC1	0.0059962524	Co-expression	Wang-Cheung-2015
+RELB	NFKBIE	0.013985371	Co-expression	Wang-Cheung-2015
+NFKB2	RELB	0.0146626085	Co-expression	Wang-Cheung-2015
+MAFF	ETS2	0.0062788907	Co-expression	Wang-Cheung-2015
+JUNB	MAFF	0.00510465	Co-expression	Wang-Cheung-2015
+CDC42SE1	CSRNP2	0.016595544	Co-expression	Wang-Cheung-2015
+EGR1	NFKBIE	0.0117963925	Co-expression	Wang-Cheung-2015
+RRAD	MAFF	0.005920477	Co-expression	Wang-Cheung-2015
+RRAD	JUNB	0.010371071	Co-expression	Wang-Cheung-2015
+IER2	ETS2	0.008040677	Co-expression	Wang-Cheung-2015
+IER2	MAFF	0.004839938	Co-expression	Wang-Cheung-2015
+IER2	JUNB	0.00620482	Co-expression	Wang-Cheung-2015
+IER2	EGR1	0.006403988	Co-expression	Wang-Cheung-2015
+IER2	RRAD	0.008067494	Co-expression	Wang-Cheung-2015
+HECA	H1FX	0.0027349323	Co-expression	Wang-Cheung-2015
+HECA	EGR1	0.00363184	Co-expression	Wang-Cheung-2015
+BFAR	MTA1	0.0176238	Co-expression	Wang-Cheung-2015
+BFAR	HECA	0.0029734515	Co-expression	Wang-Cheung-2015
+ODC1	SPSB1	0.0051736804	Co-expression	Innocenti-Brown-2011
+SERTAD1	MESDC1	0.006181496	Co-expression	Innocenti-Brown-2011
+RELB	MESDC1	0.0047469656	Co-expression	Innocenti-Brown-2011
+RELB	NFKBIE	0.00896336	Co-expression	Innocenti-Brown-2011
+NFKB2	NFKBIE	0.012779922	Co-expression	Innocenti-Brown-2011
+NFKB2	RELB	0.0095307175	Co-expression	Innocenti-Brown-2011
+ETS2	MESDC1	0.00961647	Co-expression	Innocenti-Brown-2011
+ETS2	SERTAD1	0.0142398495	Co-expression	Innocenti-Brown-2011
+ETS2	RELB	0.009255725	Co-expression	Innocenti-Brown-2011
+MAFF	PIM3	0.007945496	Co-expression	Innocenti-Brown-2011
+MAFF	SERTAD1	0.0069116843	Co-expression	Innocenti-Brown-2011
+MAFF	NFKB2	0.00685177	Co-expression	Innocenti-Brown-2011
+MAFF	ETS2	0.009620946	Co-expression	Innocenti-Brown-2011
+CSRNP2	ARRDC2	0.023124646	Co-expression	Innocenti-Brown-2011
+JUNB	MESDC1	0.007562574	Co-expression	Innocenti-Brown-2011
+JUNB	NFKB2	0.015555021	Co-expression	Innocenti-Brown-2011
+JUNB	ETS2	0.018344657	Co-expression	Innocenti-Brown-2011
+JUNB	MAFF	0.0075438763	Co-expression	Innocenti-Brown-2011
+CSRNP1	SPSB1	0.010824071	Co-expression	Innocenti-Brown-2011
+CSRNP1	PIM3	0.013967437	Co-expression	Innocenti-Brown-2011
+CSRNP1	ODC1	0.0033829801	Co-expression	Innocenti-Brown-2011
+CSRNP1	NFKB2	0.011724057	Co-expression	Innocenti-Brown-2011
+CSRNP1	ETS2	0.016712097	Co-expression	Innocenti-Brown-2011
+CSRNP1	MAFF	0.0063126553	Co-expression	Innocenti-Brown-2011
+CSRNP1	JUNB	0.015482512	Co-expression	Innocenti-Brown-2011
+EHD4	MESDC1	0.005976241	Co-expression	Innocenti-Brown-2011
+EHD4	SPSB1	0.012951709	Co-expression	Innocenti-Brown-2011
+EHD4	ARRDC2	0.012864727	Co-expression	Innocenti-Brown-2011
+EHD4	ODC1	0.0041434886	Co-expression	Innocenti-Brown-2011
+EHD4	JUNB	0.011279051	Co-expression	Innocenti-Brown-2011
+EHD4	CSRNP1	0.008860439	Co-expression	Innocenti-Brown-2011
+CDC42SE1	MESDC1	0.0111903045	Co-expression	Innocenti-Brown-2011
+CDC42SE1	ODC1	0.005880792	Co-expression	Innocenti-Brown-2011
+CDC42SE1	SERTAD1	0.015984805	Co-expression	Innocenti-Brown-2011
+CDC42SE1	MAFF	0.008886924	Co-expression	Innocenti-Brown-2011
+CDC42SE1	EHD4	0.015420987	Co-expression	Innocenti-Brown-2011
+EGR1	MAFF	0.007855338	Co-expression	Innocenti-Brown-2011
+EGR1	JUNB	0.017905986	Co-expression	Innocenti-Brown-2011
+EGR1	CSRNP1	0.012902164	Co-expression	Innocenti-Brown-2011
+IER2	MESDC1	0.0079882	Co-expression	Innocenti-Brown-2011
+IER2	SERTAD1	0.010178276	Co-expression	Innocenti-Brown-2011
+IER2	MAFF	0.0075491252	Co-expression	Innocenti-Brown-2011
+IER2	JUNB	0.018931493	Co-expression	Innocenti-Brown-2011
+IER2	CSRNP1	0.013651304	Co-expression	Innocenti-Brown-2011
+IER2	EGR1	0.03256787	Co-expression	Innocenti-Brown-2011
+DUSP6	MESDC1	0.0067191324	Co-expression	Innocenti-Brown-2011
+DUSP6	SERTAD1	0.010793733	Co-expression	Innocenti-Brown-2011
+DUSP6	ETS2	0.017745832	Co-expression	Innocenti-Brown-2011
+DUSP6	MAFF	0.006790464	Co-expression	Innocenti-Brown-2011
+DUSP6	JUNB	0.013067188	Co-expression	Innocenti-Brown-2011
+DUSP6	CSRNP1	0.009475533	Co-expression	Innocenti-Brown-2011
+DUSP6	EGR1	0.024302237	Co-expression	Innocenti-Brown-2011
+DUSP6	IER2	0.022203447	Co-expression	Innocenti-Brown-2011
+CCL20	NFKBIE	0.0076313512	Co-expression	Innocenti-Brown-2011
+CCL20	SERTAD1	0.007348545	Co-expression	Innocenti-Brown-2011
+CCL20	RELB	0.005495688	Co-expression	Innocenti-Brown-2011
+CCL20	MAFF	0.005304108	Co-expression	Innocenti-Brown-2011
+CCL20	DUSP6	0.011141312	Co-expression	Innocenti-Brown-2011
+KAT2A	NFKBIE	0.0036869321	Genetic Interactions	Lin-Smith-2010
+MARCKSL1	TOX2	0.0005702293	Genetic Interactions	Lin-Smith-2010
+ETS2	KAT2A	0.0024803649	Genetic Interactions	Lin-Smith-2010
+CSRNP2	MESDC1	0.0005560964	Genetic Interactions	Lin-Smith-2010
+CSRNP2	MTA1	0.0011424643	Genetic Interactions	Lin-Smith-2010
+CSRNP2	NFKBIE	0.00211441	Genetic Interactions	Lin-Smith-2010
+CDK18	ARRDC2	0.002349709	Genetic Interactions	Lin-Smith-2010
+CSRNP1	MESDC1	0.00057995185	Genetic Interactions	Lin-Smith-2010
+EGR1	ARRDC2	0.00205626	Genetic Interactions	Lin-Smith-2010
+RRAD	CDK18	0.005524536	Genetic Interactions	Lin-Smith-2010
+DUSP6	MESDC1	0.0006936838	Genetic Interactions	Lin-Smith-2010
+DUSP6	KAT2A	0.0016320363	Genetic Interactions	Lin-Smith-2010
+RPS6KA4	PIM3	0.007874091	Shared protein domains	PFAM
+NFKB2	NFKBIE	0.01121867	Shared protein domains	PFAM
+NFKB2	RELB	0.051366072	Shared protein domains	PFAM
+CDK18	PIM3	0.002535659	Shared protein domains	PFAM
+CDK18	RPS6KA4	0.0028863498	Shared protein domains	PFAM
+CSRNP1	CSRNP2	0.5	Shared protein domains	PFAM
+IRAK2	PIM3	0.006203126	Shared protein domains	PFAM
+IRAK2	NFKB2	0.007669276	Shared protein domains	PFAM
+IRAK2	CDK18	0.003113132	Shared protein domains	PFAM
+TNFRSF10A	NFKB2	0.011354201	Shared protein domains	PFAM
+TNFRSF10A	IRAK2	0.011262317	Shared protein domains	PFAM
